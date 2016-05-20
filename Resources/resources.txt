@@ -1,0 +1,22 @@
+https://teamtreehouse.com/welcome#step-help-52
+http://cubic-bezier.com/#.17,.67,.83,.67
+https://matthewlein.com/ceaser/
+http://ss64.com/nt/ (An A-Z Index of the Windows CMD command line | SS64.com)
+https://www.mongodb.com/
+http://bl.ocks.org/
+https://github.com/d3/d3/wiki/Gallery
+https://docs.angularjs.org/tutorial
+https://developer.mozilla.org/en-US/docs/Web/SVG/Element
+https://addons.mozilla.org/en-us/firefox/addon/jsonview/
+http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/
+http://jsonlint.com/
+http://www.url-encode-decode.com/
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions
+http://codepen.io/noahblon/full/lxukH/
+https://developer.mozilla.org/en-US/docs/Web/CSS/transform
+https://medium.freecodecamp.com/lets-explore-the-universe-of-programming-resources-together-77ff382a4c52#.2i4zozlss
+https://www.codingame.com/ide/4476286ee40be59f98ffc68763c096303d87e2f
+https://developer.mozilla.org/en-US/docs/Web/HTTP#HTTP_request_methods
+https://moltin.com/features
+
+
